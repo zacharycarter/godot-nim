@@ -4,4 +4,4 @@ description = "Godot Engine bindings"
 license = "MIT"
 srcDir = "godot"
 
-requires "nim >= 0.17.3", "compiler >= 0.17.3"
+requires "nim = 0.18.0", "compiler = 0.18.0"
